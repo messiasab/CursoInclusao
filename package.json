@@ -1,0 +1,22 @@
+{
+  "name": "cursoinclusao",
+  "version": "1.0.0",
+  "description": " Curso: Unidos pela Inclusão - Teoria e Prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/messiasab/CursoInclusao.git"
+  },
+  "author": "Prof. Robson Messias",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/messiasab/CursoInclusao/issues"
+  },
+  "homepage": "https://github.com/messiasab/CursoInclusao#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
