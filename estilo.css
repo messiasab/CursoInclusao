@@ -1,11 +1,14 @@
 .prog{
     background-color: #dce65a;
 }
+body{
 
-
-.corpo{
-    background-color: #7FAEF4;
+    background-color: black;
 }
+
+/* .corpo{
+    background-color: #7FAEF4;
+} */
     
 .row{
     padding-top: 20px;
