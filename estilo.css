@@ -1,7 +1,22 @@
 .prog{
     background-color: #dce65a;
 }
-body{
-    background-color: #0a3481;
-    color: white;
+
+
+.corpo{
+    background-color: #7FAEF4;
+}
+    
+.row{
+    padding-top: 20px;
+   
+}
+.col-sm-12{
+    padding-top: 20px;
+}
+.card{
+    
+    height: 100%;
+    
+
 }
